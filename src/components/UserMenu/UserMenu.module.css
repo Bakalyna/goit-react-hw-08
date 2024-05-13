@@ -1,0 +1,8 @@
+.user-menu-wraper {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.menu-text{
+    color: #dceb13;
+}

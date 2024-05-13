@@ -1,0 +1,15 @@
+.link {
+  font-size: 17px;
+  font-weight: 500;
+  color: #dceb13;
+  text-decoration: inherit;
+  transition: color 0.3s ease-in-out;
+}
+
+.link:hover {
+  color: rgb(117, 124, 255);
+}
+.navigation {
+  display: flex;
+  gap: 20px;
+}

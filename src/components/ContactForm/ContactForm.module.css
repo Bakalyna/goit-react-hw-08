@@ -1,0 +1,26 @@
+.form {
+  width: 312px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+  border: 1px solid rgba(17, 16, 16, 0.89);
+  border-radius: 8px;
+  padding-bottom: 10px;
+}
+.form > input {
+  border-radius: 8px;
+  border-color: deepskyblue;
+  background-color: rgb(205, 243, 245);
+  outline: none;
+  width: 250px;
+  height: 35px;
+  font-size: 16px;
+  
+}
+
+.form > input:hover,
+.form > input:focus {
+  border-color: #d2e00f;
+}
